@@ -1,0 +1,27 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/
+xcuserdata/
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods / Carthage (not used yet)
+Pods/
+Carthage/
+
+# SwiftPM playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS
+.DS_Store
+
+# User secrets
+*.p12
+*.mobileprovision
